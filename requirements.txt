@@ -1,0 +1,16 @@
+blosc2==4.10.1
+-e git+https://github.com/MIC-DKFZ/dynamic-network-architectures.git@bee2cd51568453451a6d90cc0f5b3efd6eb488ba#egg=dynamic_network_architectures
+einops==0.8.2
+huggingface_hub==1.27.0
+matplotlib==3.11.1
+monai==1.6.0
+numpy==2.4.4
+packaging==26.3
+pandas==3.0.5
+setuptools==78.1.0
+timm==1.0.21
+torch==2.13.0
+torchmetrics==1.9.0
+torchvision==0.28.0
+tqdm==4.70.0
+wandb==0.28.1
