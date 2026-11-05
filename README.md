@@ -33,6 +33,9 @@ pip install -r requirements.txt
 
 For GPU training, make sure that the installed PyTorch version is compatible with your CUDA installation.
 
+### Pretrained weights
+You can download our pretrained model weights [here](https://drive.google.com/file/d/1a_7YNl6ioXmW1BWvRvL6Kfj9csWtv0fV/view?usp=share_link)
+
 ## Data preparation
 
 We perform our imaging experiments using UK Biobank (UKBB) Dixon MRI images (**Field 20201**).
